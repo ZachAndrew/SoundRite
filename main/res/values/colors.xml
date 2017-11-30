@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DEFAULT COLORS
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    -->
+
+
+    <!--My colors-->
+    <!--TO US IN APP-->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#2a2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!---EXTRA COLORS WHICH COULD BE USED -->
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#ef1c1d</color>
+    <color name="colorLightRed">#D32F2F</color>
+    <color name="colorMaroon">#FF4081</color>
+    <color name="colorBlue">#040f8a</color>
+    <color name="colorGrey">#5e5e5e</color>
+    <color name="colorGreen">#2a2</color>
+    <color name="colorYellow">#d02db7</color>
+</resources>
